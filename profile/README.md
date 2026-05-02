@@ -2,7 +2,7 @@
 
 Discover coupons faster. Save more when you shop.
 
-[![Website](https://img.shields.io/badge/Website-offerlash.com-111827)](https://offerlash.com/)
+[![Website](https://img.shields.io/badge/Website-offerlash.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://offerlash.com/)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Get%20the%20app-34a853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.offerlash.platform)
 [![App Store](https://img.shields.io/badge/App%20Store-Download-0a84ff?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/id6642654538)
 
