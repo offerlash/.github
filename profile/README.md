@@ -2,6 +2,10 @@
 
 Discover coupons faster. Save more when you shop.
 
+[![Website](https://img.shields.io/badge/Website-offerlash.com-111827)](https://offerlash.com/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Get%20the%20app-34a853)](https://play.google.com/store/apps/details?id=com.offerlash.platform)
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0a84ff)](https://apps.apple.com/us/app/id6642654538)
+
 Offerlash is a coupon discovery platform that helps shoppers find real offers from stores they care about. Browse deals, follow favorite stores, and open the app when you are ready to shop.
 
 ## What You Can Do
