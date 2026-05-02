@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/offerlash-icon.png" alt="Offerlash" width="96" height="96">
-</p>
-
 # Offerlash
 
 Coupon discovery platform.
