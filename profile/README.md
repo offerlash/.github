@@ -23,9 +23,3 @@ Offerlash is built for quick, practical shopping. Open the app, search for a sto
 ## For Stores And Marketers
 
 Offerlash helps stores and marketers reach shoppers who are already looking for savings, offers, and trusted promotional codes.
-
-## Links
-
-- Website: https://offerlash.com
-- App: https://offerlash.com/app
-- Support: care@offerlash.com
